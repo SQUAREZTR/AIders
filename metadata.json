@@ -1,0 +1,6 @@
+{
+  "name": "Ders Koçu",
+  "description": "Yapay zeka destekli özel ders öğretmeni ve sınav koçu ile görsel ve metin analizi, sesli anlatım ve soru çözümü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
